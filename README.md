@@ -5,7 +5,7 @@
   <b> BirdSight </b>
 </p>
 <p align="center">
-  Iot Birdhouse Camera and Conservation Web App
+  IoT Birdhouse Camera and Conservation Web App
 </p>
 
 ## Summary ##

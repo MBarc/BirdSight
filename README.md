@@ -1,7 +1,6 @@
 # BirdSight
-<p style="text-align:center"> IoT Birdhouse Camera &amp; Conservation Web App </p>
 <img src="https://github.com/MBarc/BirdSight/assets/42979055/77f4506f-77cb-4bcd-b91a-f9dfb5054d86" width="200" />
-
+<p style="text-align:center"> IoT Birdhouse Camera &amp; Conservation Web App </p>
 ## Summary ##
 
 This project aims to develop an ESP32 camera system integrated into a birdhouse, allowing users to remotely monitor bird activity in the area via a Rust-programmed web application.

@@ -4,6 +4,9 @@
   <img src="https://github.com/MBarc/BirdSight/assets/42979055/77f4506f-77cb-4bcd-b91a-f9dfb5054d86" width="200" />
 </p>
 <p align="center">
+  <b> BirdSight </b>
+</p>
+<p align="center">
   Iot Birdhouse Camera and Conservation Web App
 </p>
 
